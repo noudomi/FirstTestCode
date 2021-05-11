@@ -1,5 +1,5 @@
 # FirstTestCode
 GitHubを最初に扱う
-##　markdownについて
+# markdownについて
 いろいろな場所で使われているwikiみたいなフォーマット。ggろう。
 
